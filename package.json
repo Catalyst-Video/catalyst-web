@@ -1,8 +1,8 @@
 {
-  "name": "react",
-  "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": ["react", "starter"],
+  "name": "catalyst-web",
+  "version": "0.0.1",
+  "description": "Catalyst Web Wrapper",
+  "keywords": ["catalyst", "video", "chat"],
   "main": "src/index.js",
   "dependencies": {
     "catalyst-vc-react": "3.2.1",
