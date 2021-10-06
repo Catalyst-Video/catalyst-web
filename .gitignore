@@ -3,6 +3,8 @@
 # parcel 
 .cache
 
+# codesandbox
+.codesandbox
 
 # Logs
 logs
