@@ -1,10 +1,10 @@
-# catalyst-web
+# Catalyst Web Client
 
 📷💬 Reliable and scalable open-source video chat in a few lines of code.
 
 For use in vanilla, Angular, Vue, etc. applications.
 
-Have a React app? Use our native React component here: [Catalyst React GitHub](https://github.com/Catalyst-Video/catalyst-react/)!
+**Have a React app?** Use our native React component here: [Catalyst React GitHub](https://github.com/Catalyst-Video/catalyst-react/)
 
 Check out the full [Catalyst documentation](https://docs.catalyst.chat/docs-getting-started)!
 
