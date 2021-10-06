@@ -1,4 +1,5 @@
 import "./styles.css";
+import React from "react";
 import CatalystChat from "catalyst-vc-react";
 
 export default function App({ domElement }) {
@@ -37,7 +38,7 @@ export default function App({ domElement }) {
           disableChat={disableChat}
           disableSetupView={disableSetupView}
           disableRefreshBtn={disableSetupView}
-          onEndCall={() => eval(onEndCallPreEval)}
+          // onEndCall={() => eval(onEndCallPreEval)}
         />
       </div>
     </div>
