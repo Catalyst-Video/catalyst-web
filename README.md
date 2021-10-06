@@ -7,8 +7,8 @@ Have a React app? Use our native React component here:
 # Installation / How to use
 1. Add Catalyst to your site 
 ```html
-<link href="https://giologist.github.io/catalyst-chat/catalyst-web/index.css" rel="stylesheet" />
-<script src="https://giologist.github.io/catalyst-chat/catalyst-web/index.js"></script>
+<link href="https://catalyst-video.github.io/catalyst-web/index.css" rel="stylesheet" />
+<script src="https://catalyst-video.github.io/catalyst-web/index.js"></script>
 ```
 2. Add the Catalyst element to your page
 ```html
