@@ -2,7 +2,11 @@
   "name": "catalyst-web",
   "version": "0.0.1",
   "description": "Catalyst Web Wrapper",
-  "keywords": ["catalyst", "video", "chat"],
+  "keywords": [
+    "catalyst",
+    "video",
+    "chat"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "catalyst-vc-react": "3.2.1",
@@ -22,5 +26,10 @@
     "eject": "react-scripts eject",
     "build:widget": "parcel build src/index.js --no-source-maps -d docs"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
